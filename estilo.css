@@ -1,0 +1,42 @@
+body {
+    background-image: url("/images/cafe1.jpg");
+    opacity: 100%;
+}
+
+
+h1 {
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+}
+
+#texto {
+    font-size: larger;
+    color: rgb(0, 0, 0)
+}
+
+#selectTrack {
+    font-size: medium;
+    font-style: italic;
+    color: rgba(137, 71, 54, 0.959);
+    background-color: rgb(236, 208, 203);
+    margin: auto;
+}
+
+h2 {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    margin: 3px;
+    font-size: 18px;
+    line-height: 10px;
+    text-align: center;
+    padding: 1px 1px 15px 10;
+
+}
+
+img {
+    height: 20%;
+    width: 20%;
+    opacity: 0.9;
+    border-radius: 50%;
+   }
