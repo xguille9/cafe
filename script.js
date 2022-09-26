@@ -118,7 +118,7 @@ const canciones = [
     function reproduccionActual(texto){
         document.getElementById('currentPlay').innerText=texto
     }
-    //Funcion para cargar las canciones en el reproductor
+    //Funcion para cargar las canciones en el reproductor.
     function loadMusic(ruta){
         var source = document.getElementById('source')
         var folder ="music/Jazz n 90s";//Carpeta donde tenemos almancenada la musica
