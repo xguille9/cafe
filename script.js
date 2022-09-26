@@ -7,11 +7,11 @@ const canciones = [
     "05 - The Cooltrane Quartet - Wonderwall.mp3",
     "06 - Jazzistics & Karen Souza - Personal Jesus.mp3",
     "07 - Urselle - Suicide blonde.mp3",
-    "08 - Stella Starlight Trio - Black hole sun",
-    "09 - Anakelly - November rain",
-    "10 - Jamie Lancaster - It aint over til its over",
-    "11 - 48th St Collective - Missing",
-    "12 - Ituana - Smells like teen spirit",
+    "08 - Stella Starlight Trio - Black hole sun.mp3",
+    "09 - Anakelly - November rain.mp3",
+    "10 - Jamie Lancaster - It aint over til its over.mp3",
+    "11 - 48th St Collective - Missing.mp3",
+    "12 - Ituana - Smells like teen spirit.mp3",
     ]
     var indiceActual = new Array(1)
     //Funcion para crear mediante javascript el listado de canciones
